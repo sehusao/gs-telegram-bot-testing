@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.96",
+    "@types/node-telegram-bot-api": "^0.64.7"
+  }
+}
