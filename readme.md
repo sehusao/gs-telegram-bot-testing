@@ -32,9 +32,10 @@ This project provides an easy way to experiment with various Telegram Bot API me
 
 1. Leave the parameters that do not need to be included in the request empty.
 2. The values of fields with the type "json" must be valid JSON text.
-3. To check the validity of the JSON text, you can use **"Validate JSON in current cell"** from the Utilities menu.
-4. You can view the request history on the **Log** page.
-5. Script errors are stored in the **Error** sheet and are also displayed in a message on the screen.
+3. To check the validity of the JSON text, you can use **"✅ Validate JSON in current cell"** from the "🛠️ Utilities" menu
+4. You can also use the **"🔁 Convert JS object to JSON"** function from the "🛠️ Utilities" menu to convert a JavaScript object to JSON
+5. You can view the request history on the **Log** page.
+6. Script errors are stored in the **Error** sheet and are also displayed in a message on the screen.
 
 ## Handling Updates from the Bot
 
