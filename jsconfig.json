@@ -1,11 +1,12 @@
 {
     "compilerOptions": {
-        "target": "ES6",
-        "module": "commonjs",
+        "module": "None",
         "allowJs": true,
         "checkJs": true,
-        "moduleResolution": "node",
-        "strict": true
+        "strict": true,
+        "allowUnreachableCode": false,
+        "noImplicitAny": false,
+        "lib": ["ES2017"],
     },
     "include": [
         "./**/*"

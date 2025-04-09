@@ -4,7 +4,7 @@ This project provides an easy way to experiment with various Telegram Bot API me
 
 ## Link to Spreadsheet
 
-[https://docs.google.com/spreadsheets/d/1Gr3cQ34Vl9-JczegxD-wG-0TeEHHsE86_RIlsmKi_H8/edit?gid=342394291#gid=342394291](https://docs.google.com/spreadsheets/d/1Gr3cQ34Vl9-JczegxD-wG-0TeEHHsE86_RIlsmKi_H8/edit?gid=342394291#gid=342394291)
+[https://docs.google.com/spreadsheets/d/1Gr3cQ34Vl9-JczegxD-wG-0TeEHHsE86_RIlsmKi_H8/edit](https://docs.google.com/spreadsheets/d/1Gr3cQ34Vl9-JczegxD-wG-0TeEHHsE86_RIlsmKi_H8/edit)
 
 ## Features
 
